@@ -10,7 +10,7 @@ const projets = [
         link: "https://hanileb.github.io/memory-game/"
     },
     {
-        description: 'Site de sport avec un formulaire pour se créer un profil, réaliser en HTML/CSS/Js',
+        description: 'Site de sport avec un formulaire pour se créer un profil, réaliser en HTML/CSS/jQuery',
         bgImg: "assets/site-sport.png",
         link: "https://hanileb.github.io/site-sport/"
     },
@@ -25,7 +25,7 @@ const projets = [
         link: "https://hanileb.github.io/Site-ville/"
     },
     {
-        description: 'Site pour créer des produits via un formulaire en HTML/JS',
+        description: 'Site pour créer des produits via un formulaire en HTML/jQuery',
         bgImg: "assets/site-articles.png",
         link: "https://hanileb.github.io/ajout-articles/"
     }
