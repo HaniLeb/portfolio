@@ -1,32 +1,32 @@
 const projets = [
     {
-        description: 'lorem zoefozefio',
-        bgImg: "assets/tezos-WN5_7UBc7cw-unsplash.jpg",
-        link: "#"
+        description: 'Jeux de dés en HTML/Js',
+        bgImg: "assets/dice-game.png",
+        link: "https://hanileb.github.io/dice-game/"
     },
     {
-        description: 'lorem zoefozefio',
-        bgImg: "assets/tezos-WN5_7UBc7cw-unsplash.jpg",
-        link: "#"
+        description: 'Jeux de mémorisation de carte Marvel, en HTML/CSS/Js',
+        bgImg: "assets/memory-game.png",
+        link: "https://hanileb.github.io/memory-game/"
     },
     {
-        description: 'lorem zoefozefio',
-        bgImg: "assets/tezos-WN5_7UBc7cw-unsplash.jpg",
-        link: "#"
+        description: 'Site de sport avec un formulaire pour se créer un profil, réaliser en HTML/CSS/Js',
+        bgImg: "assets/site-sport.png",
+        link: "https://hanileb.github.io/site-sport/"
     },
     {
-        description: 'lorem zoefozefio',
-        bgImg: "assets/tezos-WN5_7UBc7cw-unsplash.jpg",
-        link: "#"
+        description: 'Site de voyage, réaliser en HTML/CSS',
+        bgImg: "assets/site-voyage.png",
+        link: "https://hanileb.github.io/Site-voyage/"
     },
     {
-        description: 'lorem zoefozefio',
-        bgImg: "assets/tezos-WN5_7UBc7cw-unsplash.jpg",
-        link: "#"
+        description: 'Site vitrine, présentation d\'une ville, réaliser en HTML/CSS/Bootstrap',
+        bgImg: "assets/site-ville.png",
+        link: "https://hanileb.github.io/Site-ville/"
     },
     {
-        description: 'Site ajout de produits via un formulaire en HTML/JS',
-        bgImg: "assets/tezos-WN5_7UBc7cw-unsplash.jpg",
+        description: 'Site pour créer des produits via un formulaire en HTML/JS',
+        bgImg: "assets/site-articles.png",
         link: "https://hanileb.github.io/ajout-articles/"
     }
 ];

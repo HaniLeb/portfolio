@@ -5,7 +5,7 @@ $('#cards').append(`
         <div id="desc-card">
             <p>${projets[i].description}</p>
 
-            <a class="btnMore" href="${projets[i].link}">
+            <a class="btnMore" href="${projets[i].link}" target="_blank">
                 Voir le site
                 <i class="fas fa-angle-right"></i>
             </a>
