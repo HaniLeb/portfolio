@@ -46,6 +46,8 @@ header{
     height: 15em;
     object-fit: cover;
     border-radius: 50%;
+
+    box-shadow: 1px 1px 15px 1px rgba(0, 0, 0, 0.425);
 }
 
 address{
@@ -142,6 +144,8 @@ address{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+
+    box-shadow: -10px 10px 20px 1px rgba(0, 0, 0, 0.301);
 }
 
 #desc-card{
