@@ -7,7 +7,7 @@ const projets = [
     {
         description: 'Site pour consulter les différents films et séries de différentes plateformes',
         bgImg: "assets/Cine.png",
-        link: "https://hanileb.github.io/100-https://hanileb.github.io/Cin-/"
+        link: "https://hanileb.github.io/Cin-/"
     },
     {
         description: 'Jeux de dés en HTML/Js',
