@@ -1,11 +1,11 @@
 const projets = [
     {
-        description: 'Site pour consulter les différents championnats d\'europe',
-        bgImg: "assets/100%FOOT.png",
+        description: 'Site pour consulter les différents championnats d\'europe.',
+        bgImg: "assets/Foot.png",
         link: "https://hanileb.github.io/100-FOOT/"
     },
     {
-        description: 'Site pour consulter les différents films et séries de différentes plateformes',
+        description: 'Site pour consulter les différents films et séries de différentes plateformes.',
         bgImg: "assets/Cine.png",
         link: "https://hanileb.github.io/Cin-/"
     },
