@@ -5,7 +5,7 @@ const projets = [
     link: "https://hanileb.github.io/Football/",
   },
   {
-    description: "Site pour consulter les différents films et séries de différentes plateformes.",
+    description: "Site pour consulter les films et séries de différentes plateformes.",
     bgImg: "assets/Cine.png",
     link: "https://hanileb.github.io/Cinema/",
   },
