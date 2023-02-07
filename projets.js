@@ -1,22 +1,22 @@
 const projets = [
   {
     description:
-      "Site de football, qui permet de voir le classement et les matchs de certains championnats d'Europe, réalisée avec HTML/CSS/JavaScript",
+      "Site de football, permet de voir le classement et les matchs des cinq grands championnats d'Europe, réalisés avec HTML/CSS/JavaScript.",
     bgImg: "assets/Foot.png",
     link: "https://hanileb.github.io/Football/",
   },
   {
-    description: "Site pour consulter les films et séries de différentes plateformes, réalisée avec HTML/CSS/JavaScript",
+    description: "Site pour consulter les films et séries de différentes plateformes, réalisées avec HTML/CSS/JavaScript.",
     bgImg: "assets/Cine.png",
     link: "https://hanileb.github.io/Cinema/",
   },
   {
-    description: "Jeux de dés, avec HTML/JavaScript",
+    description: "Jeux de dés, réalisés avec HTML/JavaScript.",
     bgImg: "assets/dice-game.png",
     link: "https://hanileb.github.io/dice-game/",
   },
   {
-    description: "Jeux de mémorisation de carte Marvel, réalisée avec HTML/CSS/JavaScript",
+    description: "Jeux de mémorisation de carte Marvel, réalisés avec HTML/CSS/JavaScript.",
     bgImg: "assets/memory-game.png",
     link: "https://hanileb.github.io/memory-game/",
   },
@@ -36,12 +36,12 @@ const projets = [
     link: "https://hanileb.github.io/Site-ville/",
   },
   {
-    description: "Site qui permet de créer des cartes de produits via un formulaire, réalisée avec HTML/jQuery/Bootstrap.",
+    description: "Site qui permet de créer des cartes de produits via un formulaire, réalisés avec HTML/jQuery/Bootstrap.",
     bgImg: "assets/site-articles.png",
     link: "https://hanileb.github.io/ajout-articles/",
   },
   {
-    description: "Maquette du site Le Monde, réalisée avec HTML/CSS.",
+    description: "Maquette du site Le Monde, réalisés avec HTML/CSS.",
     bgImg: "assets/LeMonde.png",
     link: "https://hanileb.github.io/LeMonde/",
   },
